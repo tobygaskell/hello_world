@@ -1,0 +1,8 @@
+,team_id,name,code,logo,country,founded,venue_name,venue_surface,venue_address,venue_city,venue_capacity
+0,33,Manchester United,MUN,https://media.api-sports.io/football/teams/33.png,England,1878,Old Trafford,grass,Sir Matt Busby Way,Manchester,76212
+1,50,Manchester City,,https://media.api-sports.io/football/teams/50.png,England,1880,Etihad Stadium,grass,Rowsley Street,Manchester,55097
+2,49,Chelsea,,https://media.api-sports.io/football/teams/49.png,England,1905,Stamford Bridge,grass,Fulham Road,London,41841
+3,47,Tottenham,,https://media.api-sports.io/football/teams/47.png,England,1882,Tottenham Hotspur Stadium,grass,"Bill Nicholson Way, 748 High Road",London,62062
+4,64,Hull City,,https://media.api-sports.io/football/teams/64.png,England,1904,KCOM Stadium,grass,Walton Street / Anlaby Road,Hull,25504
+5,45,Everton,,https://media.api-sports.io/football/teams/45.png,England,1878,Goodison Park,grass,Goodison Road,Liverpool,40569
+0,40,Liverpool,,https://media.api-sports.io/football/teams/40.png,England,1892,Anfield,grass,Anfield Road,Liverpool,55212
