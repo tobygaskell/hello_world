@@ -1,22 +1,28 @@
 import json 
-import player
+from sys import argv
 import pandas as pd 
 import pull.team as team
+import pull.player as player 
+import pull.league as league 
+import load.main as load 
+
+def check(argv): 
+    if argv[0] == "team_data":
+        data = team.get_team_info(argv[1])
+    if argv[0] == "player_data": 
+        data = player.get_player_info_by_name(argv[1]) 
+    if argv[0] == "league_data": 
+        data = league.get_league_info(argv[1]) 
+    load.load(data, argv[0], argv[-1])
 
 
-def check(*args): 
-    print(args[0])
-    if args[0][0] == "team_data":
-        data = team.get_team_info(args[0][1])
-    if args[0] == "player_data": 
-        id_ = player.get_player_id(args[1]) 
-    #if args[0] == "league_data": 
-        #id_ = league.get_league_id(args[1]) 
-    #return id_ 
-    if 'first' in args[0]: 
-        create_csv(data)
-        return 
-    load_csv(data)
+
+
+
+
+
+
+
 
 def create_csv(data): 
     row = pd.DataFrame(data)
