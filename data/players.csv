@@ -1,3 +1,17 @@
 ,player_id,player_name,firstname,lastname,number,position,age,birth_date,birth_place,birth_country,nationality,height,weight
 0,2296,Eden Hazard,Eden,Hazard,,Attacker,29,07/01/1991,La Louvière,Belgium,Belgium,175 cm,74 kg
-0,154,L. Messi,Lionel Andrés,Messi Cuccittini,,Attacker,33,24/06/1987,Rosario,Argentina,Argentina,170 cm,72 kg
+1,154,L. Messi,Lionel Andrés,Messi Cuccittini,,Attacker,33,24/06/1987,Rosario,Argentina,Argentina,170 cm,72 kg
+2,909,M. Rashford,Marcus,Rashford,,Attacker,23,31/10/1997,Manchester,England,England,180 cm,70 kg
+3,908,Anthony Martial,Anthony,Martial,,Attacker,25,05/12/1995,Massy,France,France,181 cm,76 kg
+4,897,Mason Greenwood,Mason,Greenwood,,Attacker,19,01/10/2001,Bradford,England,England,181 cm,70 kg
+5,892,C. Smalling,Chris,Smalling,,Defender,31,22/11/1989,Greenwich,England,England,194 cm,81 kg
+6,2935,Harry Maguire,Harry,Maguire,,Defender,27,05/03/1993,Sheffield,England,England,194 cm,100 kg
+7,29174,Mohammed Salah,Mohammed,Salah,,Defender,26,07/11/1994,,India,India,,
+8,302,Roberto Firmino Barbosa de Oliveira,Roberto Firmino,Barbosa de Oliveira,,Attacker,29,02/10/1991,Maceió,Brazil,Brazil,181 cm,76 kg
+9,904,P. Pogba,Paul,Pogba,,Midfielder,27,15/03/1993,Lagny-sur-Marne,France,France,191 cm,84 kg
+10,142383,Bruno Fernando da Silva Martins,Bruno Fernando,da Silva Martins,,Attacker,33,26/01/1987,Lisboa,Portugal,Portugal,188 cm,84 kg
+11,891,L. Shaw,Luke,Shaw,,Defender,25,12/07/1995,Kingston upon Thames,England,England,185 cm,75 kg
+12,882,David de Gea Quintana,David,de Gea Quintana,,Goalkeeper,30,07/11/1990,Madrid,Spain,Spain,192 cm,76 kg
+13,276,Neymar da Silva Santos Júnior,Neymar,da Silva Santos Júnior,,Attacker,28,05/02/1992,Mogi das Cruzes,Brazil,Brazil,175 cm,68 kg
+14,18758,Séamus Coleman,Séamus,Coleman,,Defender,32,11/10/1988,Donegal,Republic of Ireland,Republic of Ireland,177 cm,67 kg
+15,19203,A. Cole,Ashley,Cole,,Defender,39,20/12/1980,London,England,England,176 cm,66 kg

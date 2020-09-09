@@ -3,10 +3,10 @@ from PIL import Image
 
 def display_logo(url):
     save_jpg(url)
-    runner('logo.jpg')
+    runner('data/image/logo.jpg')
 
 def save_jpg(url): 
-    urllib.request.urlretrieve(url, "logo.jpg")
+    urllib.request.urlretrieve(url, "data/image/logo.jpg")
 
 ASCII_CHARS = ['.',',',':',';','+','*','?','%','S','#','@']
 ASCII_CHARS = ASCII_CHARS[::-1]
@@ -68,18 +68,10 @@ def runner(path):
         image = Image.open(path)
     except Exception:
         print("Unable to find image in",path)
-        #print(e)
         return
     image = do(image)
-
-    # To print on console
     print(image)
-
-    # Else, to write into a file
-    # Note: This text file will be created by default under
-    #       the same directory as this python file,
-    #       NOT in the directory from where the image is pulled.
-    f = open('img.txt','w')
+    f = open('data/image/img.txt','w')
     f.write(image)
     f.close()
 

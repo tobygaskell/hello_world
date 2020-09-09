@@ -1,8 +1,14 @@
 ,team_id,name,code,logo,country,founded,venue_name,venue_surface,venue_address,venue_city,venue_capacity
-0,33,Manchester United,MUN,https://media.api-sports.io/football/teams/33.png,England,1878,Old Trafford,grass,Sir Matt Busby Way,Manchester,76212
-1,50,Manchester City,,https://media.api-sports.io/football/teams/50.png,England,1880,Etihad Stadium,grass,Rowsley Street,Manchester,55097
-2,49,Chelsea,,https://media.api-sports.io/football/teams/49.png,England,1905,Stamford Bridge,grass,Fulham Road,London,41841
-3,47,Tottenham,,https://media.api-sports.io/football/teams/47.png,England,1882,Tottenham Hotspur Stadium,grass,"Bill Nicholson Way, 748 High Road",London,62062
-4,64,Hull City,,https://media.api-sports.io/football/teams/64.png,England,1904,KCOM Stadium,grass,Walton Street / Anlaby Road,Hull,25504
-5,45,Everton,,https://media.api-sports.io/football/teams/45.png,England,1878,Goodison Park,grass,Goodison Road,Liverpool,40569
-0,40,Liverpool,,https://media.api-sports.io/football/teams/40.png,England,1892,Anfield,grass,Anfield Road,Liverpool,55212
+0,33,Manchester United,MUN,https://media.api-sports.io/football/teams/33.png,England,1878.0,Old Trafford,grass,Sir Matt Busby Way,Manchester,76212.0
+1,50,Manchester City,,https://media.api-sports.io/football/teams/50.png,England,1880.0,Etihad Stadium,grass,Rowsley Street,Manchester,55097.0
+2,49,Chelsea,,https://media.api-sports.io/football/teams/49.png,England,1905.0,Stamford Bridge,grass,Fulham Road,London,41841.0
+3,47,Tottenham,,https://media.api-sports.io/football/teams/47.png,England,1882.0,Tottenham Hotspur Stadium,grass,"Bill Nicholson Way, 748 High Road",London,62062.0
+4,64,Hull City,,https://media.api-sports.io/football/teams/64.png,England,1904.0,KCOM Stadium,grass,Walton Street / Anlaby Road,Hull,25504.0
+5,45,Everton,,https://media.api-sports.io/football/teams/45.png,England,1878.0,Goodison Park,grass,Goodison Road,Liverpool,40569.0
+6,40,Liverpool,,https://media.api-sports.io/football/teams/40.png,England,1892.0,Anfield,grass,Anfield Road,Liverpool,55212.0
+7,36,Fulham,,https://media.api-sports.io/football/teams/36.png,England,1879.0,Craven Cottage,grass,Stevenage Road,London,25700.0
+8,60,West Brom,,https://media.api-sports.io/football/teams/60.png,England,1878.0,The Hawthorns,grass,Halfords Lane,West Bromwich,28003.0
+9,52,Crystal Palace,,https://media.api-sports.io/football/teams/52.png,England,1905.0,Selhurst Park,grass,Holmesdale Road,London,26309.0
+10,42,Arsenal,,https://media.api-sports.io/football/teams/42.png,England,1886.0,Emirates Stadium,grass,Queensland Road,London,60383.0
+11,532,Valencia,,https://media.api-sports.io/football/teams/532.png,Spain,1919.0,Estadio de Mestalla,grass,Avenida de Suecia,Valencia,55000.0
+12,11923,Norwich City U23,,https://media.api-sports.io/football/teams/11923.png,England,,Colney Training Centre,grass,Hethersett Lane,"Colney, Norfolk",1000.0
