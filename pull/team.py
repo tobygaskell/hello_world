@@ -16,8 +16,9 @@ def get_team_info(name):
         if wanted in [start[i]['name'], start[i]['name'].lower()]:
             team_data = start[i]
             lot.append(team_data)
+    print(lot)
     if len(lot) == 1:
-        team_data = start[i]
+        team_data = lot[0]
         datadisplay.display_data(team_data)
     else:
         print([i['country'] for i in lot])
