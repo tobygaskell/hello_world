@@ -1,0 +1,2 @@
+Unnamed: 0,league_id,name,type,country,country_code,season,season_start,season_end,logo,flag,standings,is_current,coverage
+0,2790,Premier League,League,England,GB,2020,2020-09-12,2021-05-23,https://media.api-sports.io/football/leagues/39.png,https://media.api-sports.io/flags/gb.svg,1,1,"{'standings': True, 'fixtures': {'events': True, 'lineups': True, 'statistics': True, 'players_statistics': True}, 'players': True, 'topScorers': True, 'predictions': True, 'odds': True}"

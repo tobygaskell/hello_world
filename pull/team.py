@@ -13,7 +13,7 @@ def get_team_info(name):
     wanted = input("-- Please pick the team you want? ")
     lot=[]
     for i in range(len(start)):
-        if wanted in [start[i]['name'], start[i]['name'].lower()]:
+        if wanted.lower().title().strip() == start[i]['name']:
             team_data = start[i]
             lot.append(team_data)
     print(lot)
